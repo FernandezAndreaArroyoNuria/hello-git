@@ -1,7 +1,10 @@
 
 #Titulo: Proyecto Cloe
+
 **Author:**Andrea Fernández & Nuria Arroyo
+
 **Date:**14/05/2023
+
 **Subject:**ADE, SIEAV
 
 El Proyecto Cloe es un sistema basado en Raspberry Pi que utiliza un sensor ultrasónico para medir 
